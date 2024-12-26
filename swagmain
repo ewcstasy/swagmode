@@ -1,12 +1,6 @@
---\\ thvink is so sexy, listen to me. The sexy man says u can't steal this or else ur not sexy. -imie and lex
---\\ you cant give diamonds to anyone. Only for admins.   -- rip custom emojis
---\\ add me pz#1248
+--\\ I made a sigma change because im sigma
 
---\\ this is open source btw at "https://github.com/swagmode/swagmode/edit/main/swagmain" - you're not impressing anyone leaking it
---\\ Want to know what this used for? Its Swagmode premium whitelist, get more info at https://swagmode.net
---\\ REFRESH BEFORE YOU CHANGE THIS LIST.
-
-ModIDS = {
+Sigmas = {
 1171475514,
 1335631648,
 3128275645,
@@ -19729,7 +19723,7 @@ ModIDS = {
 
 
 
---\\ Don't mess with anything below this
+--\\ "Don't mess with anything below this" - Well, I did sowwy.
 function swagnames()
 	local Data = Instance.new('Folder', game:GetService('Workspace'))
 	Data.Name = 'Data_SM'
@@ -19759,4 +19753,4 @@ function swagnames()
 	end
 	end
 local success,err = pcall(swagnames)
-return ModIDS
+return Sigmas
